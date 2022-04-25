@@ -17,6 +17,9 @@ I previously worked with data (takes out calculator). My interest in moving more
 **What else do I do?**
 I box, I love jiu jitsu, I workout regularly, I am learning how to swim and always enjoy a good chess game
 
+**Do I have a portfolio?**
+Yeah: https://emms21.github.io/User-Interface-II/
+
 **How do you reach me?**
 Email me at:
 emmanuels@thegradientboost.com OR emmanuelsibanda21@gmail.com
