@@ -12,7 +12,7 @@ If you are looking to schedule a pair programming session with me: https://calen
 To be honest, I can't say I love one programming language over the other, I am generally a lot more competent with JavaScript and Python. When it comes to frameworks; React, Vue and Django
 
 **Prior Experience**
-I hail from a law background (*prepares overly complex words to explain very basic concepts to sound smarter and more intimidating*)I previously worked as a Data Analyst/BI Analyst (takes out calculator) for a large AdTech as an intern, a Venture Capital Firm, a bank as a contractor as a fintech. My interest in moving more towards code/towards Software Development came from realizing that I really, really enjoy the process of struggling along to build a side project. Each challenge I encountered made me more excited about waking up the next day to write code. This was the main reason for my career transition.
+I have a law background (*prepares overly complex words to explain very basic concepts to sound smarter and more intimidating*)I previously worked as a Data Analyst/BI Analyst (takes out calculator) for a large AdTech as an intern, a Venture Capital Firm, a bank as a contractor as a fintech. My interest in moving more towards code/towards Software Development came from realizing that I really, really enjoy the process of struggling along to build a side project. Each challenge I encountered made me more excited about waking up the next day to write code. This was the main reason for my career transition.
 
 **What else do I do?**
 I box, I love jiu jitsu, I workout regularly, I am learning how to swim and always enjoy a good chess game
