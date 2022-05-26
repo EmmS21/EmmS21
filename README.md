@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Emmanuel Sibanda, a Zimbabwean born Full Stack Developer and Entrrepreneur.
+My name is Emmanuel Sibanda, a Zimbabwean born Full Stack Developer and Entrepreneur.
 
 I love building side-projects to solve problems I deeply resonate with specifically in the EdTech Space.
 
