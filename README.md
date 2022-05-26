@@ -10,7 +10,9 @@ If you are looking to schedule a pair programming session with me: https://calen
 Want to check out my project and collaborate?: https://github.com/EmmS21/peerprogrammingplatform. 
 
 **Programming Languages**
-To be honest, I can't say I love one programming language over the other, I am generally a lot more competent with JavaScript and Python. When it comes to frameworks; React, Vue and Django
+To be honest, I can't say I love one programming language over the other, I am generally a lot more competent with JavaScript and Python. When it comes to frameworks; React, Vue, Django, Flask and Shiny
+
+Also: R, SQL, HTML and CSS
 
 **Prior Experience**
 I have a law background (*prepares overly complex words to explain very basic concepts to sound smarter and more intimidating*). I previously worked as a Data Analyst/BI Analyst (takes out calculator) for a large AdTech as an intern, a Venture Capital Firm, a bank as a contractor and at a high growth fintech in South Africa. My interest in moving more towards code/towards Software Development came from realizing that I really, really enjoy the process of struggling along to build a side project. Each challenge I encountered made me more excited about waking up the next day to write code. This was the main reason for my career transition.
