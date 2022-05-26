@@ -18,7 +18,7 @@ Also: R, SQL, HTML and CSS
 I have a law background (*prepares overly complex words to explain very basic concepts to sound smarter and more intimidating*). I previously worked as a Data Analyst/BI Analyst (takes out calculator) for a large AdTech as an intern, a Venture Capital Firm, a bank as a contractor and at a high growth fintech in South Africa. My interest in moving more towards code/towards Software Development came from realizing that I really, really enjoy the process of struggling along to build a side project. Each challenge I encountered made me more excited about waking up the next day to write code. This was the main reason for my career transition.
 
 **What else do I do?**
-I box, I love jiu jitsu, I workout regularly, I am learning how to swim and always enjoy a good chess game.
+I box, I love jiu jitsu, I workout regularly, considering getting into Ballet and Salsa and I am learning how to swim (water scares me- so this is a fear I need to get over) and always enjoy a good chess game.
 
 **Do I have a portfolio?**
 Yeah: https://emms21.github.io/User-Interface-II/
