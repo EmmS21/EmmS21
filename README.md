@@ -17,7 +17,7 @@ I have a law background. I previously worked as a Data Analyst/BI Analystfor a l
 Boxing, Jiu Jitsu, Gym, Chess
 
 **Do I have a portfolio?**
-Yeah: [https://emms21.github.io/User-Interface-II/](https://emmanuelsibanda.vercel.app/)
+Yeah: [Portfolio](https://emmanuelsibanda.vercel.app/)
 
 **How do you reach me?**
 Email me at:
