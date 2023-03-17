@@ -10,18 +10,27 @@ JavaScript, Python, R, NodeJS
 **Frameworks and tools**
 Docker, Django, React, Flask, Shiny, SKLearn
 
-**Prior Experience**
-I have a law background. I previously worked as a Data Analyst/BI Analystfor a large AdTech as an intern, a Venture Capital Firm, a bank as a contractor and at a high growth fintech in South Africa. My interest in moving more towards code/towards Software Development came from realizing that I really, really enjoy the process of struggling along to build a side project. Each challenge I encountered made me more excited about waking up the next day to write code, which was the main reason for my career transition.
+**My Why**
+I love building projects and solving interesting projects.
 
 **What else do I do?**
-Boxing, Jiu Jitsu, Gym, Chess
+Boxing, Gym, Chess
 
 **Do I have a portfolio?**
 Yeah: [Portfolio](https://emmanuelsibanda.vercel.app/)
 
+**Some of the projects I have built**
+- Pair Programming Platform -> [GitHub](https://github.com/EmmS21/peerprogrammingplatform)  -> [Deployed](https://peerprogrammingplatform.vercel.app/) (Django | React)
+- Gamified Code Editor -> [GitHub](https://github.com/EmmS21/coderace) -> [Deployed](https://code-race.vercel.app/) (NodeJS | React)   
+- Boxing Prediction Web App -> [GitHub](https://github.com/EmmS21/SpringboardCapstoneBoxingPredictionWebApp) (Flask | Python | R) 
+- Simple Interactive Site (Take Home Challenge) -> [GitHub](https://github.com/EmmS21/challenge-frontend) -> [Deployed](https://interactiveworld.vercel.app/) (NextJS)
+- Expense Tracker (Take Home Challenge) -> [GitHub](https://github.com/EmmS21/ExpensifyRemoteChallenge) -> [Deployed](https://expensifyremote.000webhostapp.com/ (Vanilla JS, HTML, CSS, PHP)
+- Analysing the efficacy of marketing campaigns -> [GitHub](https://github.com/EmmS21/Capstone---Monte-Carlo-Markov-Chain-Luigi-Pipeline) (Analytics | SQL | Python)
+- PEMDAS Operation Calculator (Take Home Challenge) -> [GitHub](https://github.com/EmmS21/PEMDAS-Calculator)  (React)
+- WhatsApp Bot -> [GitHub](https://github.com/EmmS21/gradientboostwhatsappchatbot)  (Python)
 **How do you reach me?**
 Email me at:
-emmanuels@thegradientboost.com OR emmanuelsibanda21@gmail.com
+emmanuelsibanda21@gmail.com
 <!--
 **EmmS21/EmmS21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
