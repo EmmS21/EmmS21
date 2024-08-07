@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Emmanuel Sibanda. I was born in Zimbabwe, studied law, worked and built a startup in South Africa, I now live in the US (within the US, I lived in New York -> Tulsa -> Austin -> New York)
+
 **Programming Languages**
 JavaScript, Python, R, Typescript, Ruby
 
