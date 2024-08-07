@@ -3,10 +3,10 @@
 My name is Emmanuel Sibanda. I love building things
 
 **Programming Languages**
-JavaScript, Python, R, NodeJS
+JavaScript, Python, R, Typescript, Ruby
 
 **Frameworks and tools**
-Docker, Django, React, Flask, Shiny, SKLearn
+React, Django, NodeJS
 
 **My Why**
 I love building projects and solving interesting projects. I got into Engineering so I could turn my ideas into full fledged products
@@ -17,7 +17,7 @@ Boxing, Gym, Chess, BJJ, Swimming, Hiking
 **Do I have a portfolio?**
 Yeah: [Portfolio](https://emmanuelsibanda.com/)
 
-**Some of the projects I have built**
+**A few things I have built**
 - Pair Programming Platform -> [GitHub](https://github.com/EmmS21/peerprogrammingplatform)  -> [Deployed](https://peerprogrammingplatform.vercel.app/) (Django | React)
 - Gamified Code Editor -> [GitHub](https://github.com/EmmS21/coderace) -> [Deployed](https://code-race.vercel.app/) (NodeJS | React)   
 - Boxing Prediction Web App -> [GitHub](https://github.com/EmmS21/SpringboardCapstoneBoxingPredictionWebApp) (Flask | Python | R) 
