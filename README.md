@@ -6,7 +6,7 @@ My name is Emmanuel Sibanda. I love building things
 JavaScript, Python, R, Typescript, Ruby
 
 **Frameworks and tools**
-React, Django, NodeJS
+React/NextJS, Django, NodeJS
 
 **My Why**
 I love building projects and solving interesting projects. I got into Engineering so I could turn my ideas into full fledged products
