@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is Emmanuel Sibanda, a Zimbabwean born Full Stack Developer and Entrepreneur.
-
-I love building side-projects to solve problems I deeply resonate with specifically in the EdTech Space.
+My name is Emmanuel Sibanda. I love building things
 
 **Programming Languages**
 JavaScript, Python, R, NodeJS
@@ -11,13 +9,13 @@ JavaScript, Python, R, NodeJS
 Docker, Django, React, Flask, Shiny, SKLearn
 
 **My Why**
-I love building projects and solving interesting projects.
+I love building projects and solving interesting projects. I got into Engineering so I could turn my ideas into full fledged products
 
 **What else do I do?**
-Boxing, Gym, Chess
+Boxing, Gym, Chess, BJJ, Swimming, Hiking 
 
 **Do I have a portfolio?**
-Yeah: [Portfolio](https://emmanuelsibanda.vercel.app/)
+Yeah: [Portfolio](https://emmanuelsibanda.com/)
 
 **Some of the projects I have built**
 - Pair Programming Platform -> [GitHub](https://github.com/EmmS21/peerprogrammingplatform)  -> [Deployed](https://peerprogrammingplatform.vercel.app/) (Django | React)
