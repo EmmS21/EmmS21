@@ -18,6 +18,7 @@ Boxing, Gym, Chess, BJJ, Swimming, Hiking
 Yeah: [Portfolio](https://emmanuelsibanda.com/)
 
 **A few things I have built**
+- Currently building a business giving students across Africa access to laptops preloaded with offline AI to help them prepare for exams and learn new skills (Linux, Google Cloud, Vector embedding, LLAMA3.2, AI fine tuning, Python)
 - Pair Programming Platform -> [GitHub](https://github.com/EmmS21/peerprogrammingplatform)  -> [Deployed](https://peerprogrammingplatform.vercel.app/) (Django | React)
 - Gamified Code Editor -> [GitHub](https://github.com/EmmS21/coderace) -> [Deployed](https://code-race.vercel.app/) (NodeJS | React)   
 - Boxing Prediction Web App -> [GitHub](https://github.com/EmmS21/SpringboardCapstoneBoxingPredictionWebApp) (Flask | Python | R) 
