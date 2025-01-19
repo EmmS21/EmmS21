@@ -26,9 +26,10 @@ Yeah: [Portfolio](https://emmanuelsibanda.com/)
 - Analysing the efficacy of marketing campaigns -> [GitHub](https://github.com/EmmS21/Capstone---Monte-Carlo-Markov-Chain-Luigi-Pipeline) (Analytics | SQL | Python)
 - PEMDAS Operation Calculator (Take Home Challenge) -> [GitHub](https://github.com/EmmS21/PEMDAS-Calculator)  (React)
 - WhatsApp Bot -> [GitHub](https://github.com/EmmS21/gradientboostwhatsappchatbot)  (Python)
+
 **How do you reach me?**
 Email me at:
-emmanuelsibanda21@gmail.com
+emmanuel@emmanuelsibanda.com
 <!--
 **EmmS21/EmmS21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
