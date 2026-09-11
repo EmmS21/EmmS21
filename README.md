@@ -4,11 +4,11 @@ Software Engineer focused on building production systems that automate workflows
 
 ## Where to place me
 
-- Forward Deployed Engineer: embed with the people doing the work, find the bottleneck, ship the workflow, stay through adoption. Blackstone consultants. Dagger presentations into team use.
-- Solutions Engineer: earn trust with a technical buyer, show the product in their problem, isolate the failure, ship the fix. GizmoSQL visualization and simulations into a contract. GrowthBook implementor confusion. Dagger Commander.
-- Product Engineer: start from who the product is for, isolate the class of failure, ship the smallest fix that protects the end user. GizmoSQL product gap from simulations. CHT duplicate SMS. Plausible import purge. Koza volume guardrails.
-- Founding Engineer: own discovery through deployment on a small team, multiple hats. FundaAI laptop stack. AdAlchemy agent pipeline. GizmoSQL contract.
-- Backend: production APIs, data pipelines, and infrastructure. Blackstone FastAPI agents, Snowflake to RDS, Terraform disaster recovery, GitLab CI/CD.
+- Forward Deployed Engineer: embed with the people doing the work, find the bottleneck, ship the workflow, stay through adoption. 
+- Solutions Engineer: earn trust with a technical buyer, show the product in their problem, isolate the failure, ship the fix. 
+- Product Engineer: start from who the product is for, isolate the class of failure, ship the smallest fix that protects the end user. 
+- Founding Engineer: own discovery through deployment on a small team, multiple hats. 
+- Backend: production APIs, data pipelines, and infrastructure. 
 
 ## What I Do
 
