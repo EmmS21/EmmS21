@@ -1,6 +1,6 @@
 # Emmanuel Sibanda
 
-Software Engineer focused on building production systems that automate workflows and reduce infrastructure costs.
+Product oriented Software Engineer with an ability to work through the entire stack.
 
 ## Where to place me
 
